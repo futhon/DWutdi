@@ -43,3 +43,15 @@ Keterbatasan:
 
 MySQL adalah pilihan yang solid untuk menyimpan dan mengelola data dalam arsitektur Data Warehouse, terutama bagi organisasi yang membutuhkan solusi yang andal dan terjangkau. Meskipun memiliki beberapa keterbatasan dalam hal skalabilitas dan kemampuan analitik, dengan arsitektur yang tepat, MySQL dapat menjadi tulang punggung dari sistem Data Warehouse yang efisien dan efektif.
 
+**INSTALASI MySQL**
+
+![alt text](https://github.com/futhon/DWutdi/blob/main/public/Gambar%201.png?raw=true)
+![alt text](https://github.com/futhon/DWutdi/blob/main/public/Gambar%202.png?raw=true)
+![alt text](https://github.com/futhon/DWutdi/blob/main/public/Gambar%203.png?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+
