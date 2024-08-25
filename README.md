@@ -1,2 +1,7 @@
 # DWutdi
-Ini adalah tugas untuk mata kuliah data warehouse
+Tugas Data Warehouse UTDI
+
+Nama: Fukkar Al Wathoni
+NIM: 225611093
+
+
